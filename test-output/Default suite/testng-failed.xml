@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.emp.test_cases.Admin.Page_1_Dashboard_Test">
+        <methods>
+          <include name="Currently_Offline_Test"/>
+          <include name="Top10NonProductiveEmployees_Location_Test"/>
+          <include name="Top_10_Non_Active_Employee_Test"/>
+          <include name="tearDown"/>
+          <include name="Top_10_Active_Employee_Test"/>
+          <include name="CurrentlyIdle_Test"/>
+          <include name="beforeSuite"/>
+          <include name="Location_Performance_Productive_Test"/>
+          <include name="CurrentlyACtive_Test"/>
+          <include name="Absent_Users_Test"/>
+          <include name="Top10Websitesusages_Today_Test"/>
+          <include name="Top10ProductiveEmployees_Locations_Test"/>
+          <include name="TotalEnrollments_Test"/>
+          <include name="initialization"/>
+          <include name="Suspended_Users_Test"/>
+          <include name="Department_Performance_Productive_Test"/>
+        </methods>
+      </class> <!-- com.emp.test_cases.Admin.Page_1_Dashboard_Test -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
