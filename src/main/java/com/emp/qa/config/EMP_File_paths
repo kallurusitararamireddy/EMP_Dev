@@ -10,7 +10,7 @@ manager_TL_Employee_password=testdemo123@gmail.com
 
           1)  Module Name :- DashBoard  (Down_loaded Files )
  
-Total_Enrollments=C:\\Emp-Monitor-PR\\Emp_Monitor\\screenshots\\Dashboard_All.xlsx
+Total_Enrollments=C:\\Users\\GLB-BLR-002\\Desktop\\Scripts\\EmpMonitor_Dev\\screenshots\\Dashboard_All.xlsx
 Dashboard_Currently_active_Users=C:\\Emp-Monitor-PR\\Emp_Monitor\\screenshots\\Dashboard_Currently active Users.xlsx
 Currently_idle=C:\\Emp-Monitor-PR\\Emp_Monitor\\screenshots\\Dashboard_Idle Users.xlsx
 Currently_offline=C:\\Emp-Monitor-PR\\Emp_Monitor\\screenshots\\Dashboard_offline Users.xlsx
